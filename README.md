@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ben Eskro (@beskro2)
-- 👀 I’m interested in Front-End software development
-- 🌱 I’m currently learning JavaScript frameworks React and Vue.js
-- 💞️ I’m looking to collaborate on web development projects, especially those involving React or Vue.js.
+- 👀 I’m interested in QA development
+- 🌱 I’m currently learning automation frameworks like Playwright and Selenium.
 - 📫 The best way to reach me is through email at eskroben@gmail.com
 - 😄 Pronouns: he/him
 
